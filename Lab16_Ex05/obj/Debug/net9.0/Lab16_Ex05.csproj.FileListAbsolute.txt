@@ -1,0 +1,15 @@
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\bin\Debug\net9.0\Lab16_Ex05.exe
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\bin\Debug\net9.0\Lab16_Ex05.deps.json
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\bin\Debug\net9.0\Lab16_Ex05.runtimeconfig.json
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\bin\Debug\net9.0\Lab16_Ex05.dll
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\bin\Debug\net9.0\Lab16_Ex05.pdb
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.AssemblyInfoInputs.cache
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.AssemblyInfo.cs
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.csproj.CoreCompileInputs.cache
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.sourcelink.json
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.dll
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\refint\Lab16_Ex05.dll
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.pdb
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\Lab16_Ex05.genruntimeconfig.cache
+D:\OOP\lab16\Lab16-CSharp-Abstract-Members\Lab16_Ex05\obj\Debug\net9.0\ref\Lab16_Ex05.dll
